@@ -14,6 +14,4 @@ while temp<=4000000:
     # checks whether if number is even then adds to the sum
     if temp%2==0:
         sum=sum+temp
-
-# prints out the final value
 print(sum)
