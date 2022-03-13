@@ -1,3 +1,4 @@
+# finding biggest palindrome
 number = 999
 palindromebig = 0
 while number > 99:
